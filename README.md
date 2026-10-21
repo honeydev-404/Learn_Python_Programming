@@ -1,4 +1,4 @@
-<h1 align="center">Python Learning 🐍</h1>
+<h1 align="center">🐍 Python Learning 🐍</h1>
 
 <p align="center">
   My journey of learning Python through hands-on practice, problem-solving, and consistent documentation.

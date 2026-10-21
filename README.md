@@ -68,6 +68,7 @@ For every topic:
 
 I will mark each topic as completed after studying and practicing it.
 
+
 <p align="center">
   <b>Built with ❤️, curiosity, and consistency.</b>
   <br>

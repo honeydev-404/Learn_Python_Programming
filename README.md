@@ -14,19 +14,6 @@
 - Track my progress using Git and GitHub.
 - Apply Python to backend development and cybersecurity fundamentals in the future.
 
-## 🗂️ Repository Structure
-
-```text
-learn_python_programming/
-├── README.md
-├── 01-printing/
-│   ├── notes.md
-│   └── exercises.py
-├── 02-variables-data-types/
-│   ├── notes.md
-│   └── exercises.py
-└── projects/
-```
 
 ## 🔁 My Learning Workflow
 

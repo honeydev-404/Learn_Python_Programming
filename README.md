@@ -16,26 +16,26 @@
 
 ## 📚 Learning Roadmap
 
-- [ ] 1. Intro to Python
-- [ ] 2. Standard Output (Printing)
-- [ ] 3. Variables & Data Types
-- [ ] 4. User Input & Type Casting
-- [ ] 5. Basic Math Operations
-- [ ] 6. String Basics
-- [ ] 7. String Formatting
-- [ ] 8. String Indexing & Slicing
-- [ ] 9. Functions Basics
-- [ ] 10. Functions Return Values
-- [ ] 11. Variable Scope
-- [ ] 12. Boolean Logic
-- [ ] 13. Conditional Branching
-- [ ] 14. Error Handling (try/except)
-- [ ] 15. While Loops
-- [ ] 16. For Loops
-- [ ] 17. Loop Control
-- [ ] 18. Lists Basics
-- [ ] 19. Lists Mutation Methods
-- [ ] 20. Lists Sorting & Searching
+1. Intro to Python
+2. Standard Output (Printing)
+3. Variables & Data Types
+4. User Input & Type Casting
+5. Basic Math Operations
+6. String Basics
+7. String Formatting
+8. String Indexing & Slicing
+9. Functions Basics
+10. Functions Return Values
+11. Variable Scope
+12. Boolean Logic
+13. Conditional Branching
+14. Error Handling (try/except)
+15. While Loops
+16. For Loops
+17. Loop Control
+18. Lists Basics
+19. Lists Mutation Methods
+20. Lists Sorting & Searching
 
 ## 🗂️ Repository Structure
 

@@ -1,8 +1,9 @@
-# learn_python_programming
+<h1 align="center">Python Learning 🐍</h1>
 
-# Python Learning 🐍
+<p align="center">
+  My journey of learning Python through hands-on practice, problem-solving, and consistent documentation.
+</p>
 
-My journey of learning Python from the fundamentals through hands-on practice, problem-solving, and consistent documentation.
 
 ## 🎯 Goals
 
@@ -67,6 +68,8 @@ For every topic:
 
 I will mark each topic as completed after studying and practicing it.
 
----
-
-*Learning in public, one concept at a time.*
+<p align="center">
+  <b>Built with ❤️, curiosity, and consistency.</b>
+  <br>
+  <i>Made with ❤️ by honeydev-404</i>
+</p>

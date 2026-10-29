@@ -1,40 +1,80 @@
-<h1 align="center">🐍 Python Learning 🐍</h1>
 
-<p align="center">
-  My journey of learning Python through hands-on practice, problem-solving, and consistent documentation.
-</p>
+<div align="center">
+
+<img align="center" width="180" alt="Python Logo" src="https://github.com/user-attachments/assets/4b877b03-c14a-4ef6-863f-4eebbfd91a08" />
+
+# Python Learning
+
+**Learning Python from the fundamentals.**
+
+Understanding programming through hands-on practice, problem-solving, and building projects.
+
+![Focus](https://img.shields.io/badge/Focus-Python%20Fundamentals-blue)
+![Approach](https://img.shields.io/badge/Approach-Practice%20First-orange)
+![Status](https://img.shields.io/badge/Status-Learning-green)
+
+</div>
+
+---
+
+## 🚀 About This Repository
+
+This repository contains my notes, code examples, and learning journey while studying Python from the fundamentals.
+
+Instead of only memorizing syntax, my goal is to understand how programming works, practice each concept by writing code, debug mistakes, and build small projects as I progress.
+
+I will keep updating this repository as I learn new concepts and improve my problem-solving skills.
+
+### 🎯 What I'm Focusing On
+
+- Programming Fundamentals
+- Python Syntax & Data Types
+- Operators & Expressions
+- Conditions & Loops
+- Lists & Functions
+- Testing & Debugging
+- Project-Based Practice
+
+---
+
+## 📚 Learning Roadmap
 
 
-## 🎯 Goals
+---
 
-- Learn Python fundamentals step by step.
-- Solve exercises independently.
-- Write clear notes in my own words.
-- Practice writing and debugging code.
-- Track my progress using Git and GitHub.
-- Apply Python to backend development and cybersecurity fundamentals in the future.
+## 🧠 My Learning Approach
 
+I am following a practice-first approach:
 
-## 🔁 My Learning Workflow
+```text
+Learn the Concept
+       ↓
+Understand the Syntax
+       ↓
+Write and Run Code
+       ↓
+Debug Mistakes
+       ↓
+Solve Practice Exercises
+       ↓
+Build Small Projects
+```
 
-For every topic:
+## 🔭 Future Goals
 
-1. Understand the concept.
-2. Solve the exercises myself.
-3. Write notes in my own words.
-4. Save and test my code.
-5. Review mistakes and improve.
-6. Commit and push my progress to GitHub.
+After building a strong Python foundation, I plan to explore:
 
-## 📈 Current Progress
+- Backend Development
+- APIs & Databases
+- Software Engineering Fundamentals
+- Cybersecurity
 
-**Status:** Starting with Python fundamentals.
+---
 
-I will mark each topic as completed after studying and practicing it.
+<div align="center">
 
+**Learn by building. Improve by debugging. Stay consistent.**
 
-<p align="center">
-  <b>Built with ❤️, curiosity, and consistency.</b>
-  <br>
-  <i>Made with ❤️ by honeydev-404</i>
-</p>
+Made with ❤️ by [honeydev-404](https://github.com/honeydev-404)
+
+</div>

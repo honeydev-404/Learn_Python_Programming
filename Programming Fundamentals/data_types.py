@@ -1,4 +1,4 @@
-# Now I will show you some magic by print not only string but numbers, boolean values and also decimal values.
+# Python is very smart, it can judged the data type automatically, Now I will show you some magic by print not only string but numbers, boolean values and also decimal values.
 
 print("Hello World!") # This will print Hello World! (String).
 print(72) # This will print 72 (Integer).

@@ -39,8 +39,8 @@ I will keep updating this repository as I learn new concepts and improve my prob
 
 ## 📚 Learning Roadmap
 
-[1. Programming Fundamentals](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Programming%20Fundamentals)
-[2. Variables](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Variables)
+- [1. Programming Fundamentals](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Programming%20Fundamentals)
+- [2. Variables](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Variables)
 
 ---
 

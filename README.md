@@ -41,6 +41,9 @@ I will keep updating this repository as I learn new concepts and improve my prob
 
 - [1. Programming Fundamentals](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Programming%20Fundamentals)
 - [2. Variables](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Variables)
+- [3. Conditionals](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Conditionals)
+- [4. Functions](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Functions)
+- [5. Scope](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Scope)
 
 ---
 

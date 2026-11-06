@@ -47,6 +47,7 @@ I will keep updating this repository as I learn new concepts and improve my prob
 - [6. Testing and Debugging](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Testing%20and%20Debugging)
 - [7. Computing Fundamentals](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Computing%20Fundamentals)
 - [8. Comparison](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Comparisons)
+- [9. Loops](https://github.com/honeydev-404/Learn_Python_Programming/tree/main/Loops)
 ---
 
 ## 🧠 My Learning Approach

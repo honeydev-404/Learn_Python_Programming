@@ -2,7 +2,7 @@
 #The syntax goes like (list_name[start:stop:step]), if you will keep the parameter nothing in start and stop then it will assume it as 0.
 system_ports = [21, 22, 80, 443, 8080]
 
-part1 = system_ports[0:2] #This will print items from index 0 to 2.
+part1 = system_ports[0:2] #This will print items from index 0 to 1 because it ignores the exclusive index.
 print(f"From 0 to 2: {part1}")
 
 part2 = system_ports[::] #It will set it to from start to end.
